@@ -1,4 +1,3 @@
 {
-    "root": "dist/",
-    "canonical_host": "www.example.com"
+    "root": "dist/"
   }
